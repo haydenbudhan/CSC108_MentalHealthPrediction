@@ -6,7 +6,7 @@ A data science project analyzing mental health risk using lifestyle, stress, and
 ## Overview
 This project explores whether mental health risk can be predicted using lifestyle, stress, and psychological factors. Using data analysis and machine learning techniques, the project identifies key patterns and evaluates how well mental health risk can be modeled.
 
----
+
 
 ## Dataset
 The dataset includes variables related to:
@@ -20,7 +20,7 @@ The dataset includes variables related to:
   - 1 = Medium Risk  
   - 2 = High Risk  
 
----
+
 
 ##  Exploratory Data Analysis
 Several visualizations were created to understand relationships between variables:
@@ -32,7 +32,7 @@ Several visualizations were created to understand relationships between variable
 - Anxiety and depression have strong positive relationships with risk  
 - Screen time showed little to no meaningful relationship  
 
----
+
 
 ## Model
 A **Logistic Regression** model was used to predict mental health risk.
@@ -50,14 +50,14 @@ A **Logistic Regression** model was used to predict mental health risk.
 - Model trained on selected features  
 - Predictions evaluated using accuracy and confusion matrix  
 
----
+
 
 ## Results
 - **Model Accuracy:** ~61%  
 - The model performs best when predicting medium risk  
 - It struggles to distinguish between low and high risk levels  
 
----
+
 
 ## Feature Importance
 The most influential variables in predicting mental health risk were:
@@ -67,12 +67,12 @@ The most influential variables in predicting mental health risk were:
 
 Stress-related variables had moderate impact, while screen time had little influence.
 
----
+
 
 ## Conclusion
 Mental health risk can be partially predicted using lifestyle and psychological data. However, the moderate accuracy highlights the complexity of mental health and suggests that important factors (such as personal experiences, biological influences, and environment) are not fully captured in the dataset.
 
----
+
 
 ## Technologies Used
 - Python  
@@ -80,7 +80,7 @@ Mental health risk can be partially predicted using lifestyle and psychological 
 - Matplotlib / Seaborn  
 - Scikit-learn  
 
----
+
 
 ## Future Improvements
 - Test additional models (e.g., decision trees, random forests)  
