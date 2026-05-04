@@ -52,7 +52,7 @@ A **Logistic Regression** model was used to predict mental health risk.
 
 ---
 
-## 📈 Results
+## Results
 - **Model Accuracy:** ~61%  
 - The model performs best when predicting medium risk  
 - It struggles to distinguish between low and high risk levels  
