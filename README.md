@@ -22,7 +22,7 @@ The dataset includes variables related to:
 
 ---
 
-## 🔍 Exploratory Data Analysis
+##  Exploratory Data Analysis
 Several visualizations were created to understand relationships between variables:
 - Boxplots comparing features against mental health risk
 - Correlation heatmap to identify strong relationships
