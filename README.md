@@ -92,3 +92,4 @@ Mental health risk can be partially predicted using lifestyle and psychological 
 Hayden Budhan
 
 GitHub: https://github.com/haydenbudhan/CSC108_MentalHealthPrediction
+LinkedIn: https://www.linkedin.com/in/haydenbudhan1101/
